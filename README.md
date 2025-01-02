@@ -1,2 +1,2 @@
 # Salon-Appointment-Scheduler
-Freecodecamp certification project
+Freecodecamp Certification Project
